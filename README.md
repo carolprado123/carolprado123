@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 estou estudando na alura
 
 <!--
 **carolprado123/carolprado123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
